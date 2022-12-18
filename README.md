@@ -2,7 +2,7 @@
 # WIP
 
 An automated system to fill an empty 1kg spool with new filament, but with perfectly neat windings.
-![image](https://user-images.githubusercontent.com/25805271/208311816-19bac5a1-e212-4cd7-a96f-4cf7a43424a2.png)
+![image](https://user-images.githubusercontent.com/25805271/208325724-90095900-3a8c-4fa8-b818-1bea6ccaa25d.png)
 
 ## Assembly Instructions
 
