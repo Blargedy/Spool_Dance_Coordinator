@@ -1,5 +1,6 @@
 # Spool Winding Coordinator
-# WIP
+# ABANDONED
+Better solutions existed already. 
 
 An automated system to fill an empty 1kg spool with new filament, but with neat windings.
 
